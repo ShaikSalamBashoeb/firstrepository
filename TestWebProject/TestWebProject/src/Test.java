@@ -2,7 +2,8 @@
 public class Test {
 	
 	public static void main(String[] args) {
-		System.out.println("Salam");
+		System.out.println("Salam22");
+		int i;
 	}
 
 }
